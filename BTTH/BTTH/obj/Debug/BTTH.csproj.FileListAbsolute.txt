@@ -1,0 +1,6 @@
+E:\net\BTTH\BTTH\obj\Debug\BTTH.csprojResolveAssemblyReference.cache
+E:\net\BTTH\BTTH\bin\BTTH.dll.config
+E:\net\BTTH\BTTH\bin\BTTH.dll
+E:\net\BTTH\BTTH\bin\BTTH.pdb
+E:\net\BTTH\BTTH\obj\Debug\BTTH.dll
+E:\net\BTTH\BTTH\obj\Debug\BTTH.pdb
