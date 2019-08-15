@@ -1,0 +1,6 @@
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\bin\Bai_Giua_Ky.dll.config
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\bin\Bai_Giua_Ky.dll
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\bin\Bai_Giua_Ky.pdb
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\obj\Debug\Bai_Giua_Ky.csprojResolveAssemblyReference.cache
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\obj\Debug\Bai_Giua_Ky.dll
+E:\net\Bai_Giua_Ky\Bai_Giua_Ky\obj\Debug\Bai_Giua_Ky.pdb
